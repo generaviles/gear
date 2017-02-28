@@ -1,0 +1,31 @@
+--- 
+title: "Libro de Minutas y Evidencias Fundación GEAR A.C."
+author: "Érika Zúñiga, Bety Gurrea, Cecilia de la Vega, Aghavni Grigoryan, Jesús Monzón, Gerardo Romo, Gener Avilés R"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "Repositorio de uso interno para la operatividad de la Fundación GEAR A.C."
+cover-image: img/GEAR_logo.png
+---
+
+
+# Mensaje de la Directora
+
+```{r fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='https://www.crcpress.com/product/isbn/9781138700109'}
+knitr::include_graphics('img/GEAR_logo.png', dpi = NA)
+```
+
+Lorem ipsum dolor sit amet, te autem noluisse cum, elit corpora ei ius. Sint wisi summo has no, summo utinam contentiones ei vix. Id doming aperiri bonorum pri. Cum quod partem efficiantur ei, pro ex quod putant, putent civibus duo ne. Ut ceteros posidonium nec, nam et vulputate omittantur.
+
+Democritum constituam vim te. Mea accumsan eloquentiam in. Sed ne graece qualisque. Sed ut etiam nostro elaboraret, eos veritus tractatos tincidunt eu, cu accusamus temporibus his. Ea nec modus ullamcorper.
+
+Vix id errem quaerendum repudiandae, vel suavitate posidonium ea. Has ut nonumy efficiantur. Nec vidit erant ceteros ut, ne porro explicari evertitur sed. At tamquam suscipiantur vim, his ad phaedrum convenire urbanitas.
+
+Te sed dicta eruditi persecuti. Est causae ancillae ea, ea cum illum iudicabit. Cu sonet petentium referrentur vix. Id vim voluptua dissentias scribentur, cum te doming probatus.
+
+Error electram eos ex, veri solum honestatis per cu. Quaeque epicuri omnesque vel ex, pro saperet erroribus forensibus at, case repudiare his no. Animal cotidieque ea vix, vim ei labore phaedrum, ocurreret principes no duo. No per commodo consetetur quaerendum. Quo oporteat similique in, mea atqui prodesset dissentiet te. Mei et noster saperet sadipscing, in iusto labore atomorum nam.

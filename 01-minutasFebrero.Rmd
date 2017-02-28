@@ -1,0 +1,93 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Minutas Febrero {#intro}
+##23-Feb-2017
+
+###Generalidades
+
+**Fecha de reunión:** Domingo 27 de Noviembre 2016 <br \>
+**Hora:** 17:30  a 19:00 hrs. <br \>
+**Duración:** 1:30 hora. <br \>
+**Lugar:** Casa de familia Romo Zúñiga. <br \>
+
+**Asistentes**
+
+|       Nombre       | Asistió |     Rol    |
+|:------------------:|:-------:|:----------:|
+| Érika Zúñiga       | Si      | Presidenta |
+| Cecilia de la Vega | Si      | Secretaria |
+| Jesús Monzón       | Si      | Tesorero   |
+| Saraí de la Vega   | Si      | Vocal      |
+| Aghavni Grigoryan  | Si      | Vocal      |
+| Gerardo Romo       | Si      | Vocal      |
+| Gener Avilés       | Si      | Vocal      |
+
+<br \>
+**Fecha y hora de reunión de trabajo próxima:** miércoles 14 de septiembre de 2011.<br \>
+**Duración de la próxima reunión:** 15:30  a 16:30 hrs.<br \>
+**Lugar próxima reunión:** Casa familia Avilés Grigoryan.<br \>
+**Escribano próxima reunión:** Cecilia.<br \>
+
+###Agenda:
+  - 1
+  - as
+  - asd
+  - asd
+
+###Temas Abordados
+
+  1. Lorem ipsum dolor
+  1. Lorem ipsum dolor
+  1. Lorem ipsum dolor
+  1. Lorem ipsum dolor
+
+###Acuerdos y Votos
+
+####Acuerdos
+  - Lorem ipsum dolor
+  - Lorem ipsum dolor
+  - Lorem ipsum dolor
+  - Lorem ipsum dolor
+
+####Votos
+  - Lorem ipsum dolor
+  - Lorem ipsum dolor
+  - Lorem ipsum dolor
+  - Lorem ipsum dolor
+
+
+###Compromisos
+
+
+| No | Prioridad 1 = Alta 2 = Media 3 = Baja |                    Descripción del Compromiso                   |     Responsable     | Fecha de Entrega |
+|----|:-------------------------------------:|:---------------------------------------------------------------:|:-------------------:|------------------|
+| 1  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |
+| 2  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |
+| 3  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |
+| 4  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |
+| 5  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |
+| 6  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |
+| 7  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |
+
+###Seguimiento
+
+| No | Prioridad 1 = Alta 2 = Media 3 = Baja |                    Descripción del Compromiso                   |     Responsable     | Fecha de Entrega | Estatus T = Terminado Pr = En proceso Pe = Pendiente |
+|----|:-------------------------------------:|:---------------------------------------------------------------:|:-------------------:|------------------|------------------------------------------------------|
+| 1  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
+| 2  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
+| 3  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
+| 4  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
+| 5  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
+| 6  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
+| 7  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
+
+
+###Reglas base de la dinámica:
+
+  - Escribano toma la minuta. Los demás traen las herramientas que necesiten para la junta.
+  - Número mínimo de asistentes: 3 personas para acuerdos.
+  - Discreción, respeto, comunicación, autoaprendizaje, compartir, aprendizaje.
+  - Cumplir con los compromisos acordados en las reuniones de trabajo.
