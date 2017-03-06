@@ -1,3 +1,87 @@
 # Minutas de Marzo
 
-Aquí irán cuando empecemos a generarlas.
+##5-Mar-2017
+
+###Generalidades
+
+**Fecha de reunión:** Domingo 5 de Marzo de 2017 <br \>
+**Hora:** 18:00  a 20:00 hrs. <br \>
+**Duración:** 2:00 horas. <br \>
+**Lugar:** Carl´s Jr, Costero. <br \>
+
+**Asistentes**
+
+|       Nombre       | Asistió |     Rol    |
+|:------------------:|:-------:|:----------:|
+| Érika Zúñiga       | Si      | Presidenta |
+| Cecilia de la Vega | Si      | Secretaria |
+| Jesús Monzón       | No      | Tesorero   |
+| Saraí de la Vega   | Si      | Vocal      |
+| Aghavni Grigoryan  | No      | Vocal      |
+| Gerardo Romo       | Si      | Vocal      |
+| Gener Avilés       | Si      | Vocal      |
+
+<br \>
+**Fecha y hora de reunión de trabajo próxima:** Jueves 9 de Marzo de 2017.<br \>
+**Duración de la próxima reunión:** 19:00  a 20:30 hrs.<br \>
+**Lugar próxima reunión:** Casa familia Avilés Grigoryan.<br \>
+**Escribano próxima reunión:** Gener.<br \>
+
+###Agenda:
+  - *No hubo agenda oficial previo a la reunión*
+
+###Temas Abordados
+
+  1. Coordinación Mis Chacharitas
+  1. Invitación EduCamp
+  
+###Acuerdos y Votos
+
+####Acuerdos
+  - Nidia, Lolita, Érika y Jesús son las responsables directas de "Mis Chacharitas"
+  - Invitación a EduCamp para el 22,23 Mayo se acepta con las siguientes condiciones:
+    - Profe Nahum provee de equipo al que GEAR pueda capacitar para implementar la actividad.
+    - Si miembros de GEAR pueden asistir en esas fechas lo harán como apoyo al equipo previamente capacitado.
+
+####Votos
+  - Ninguno tomado. 
+
+###Compromisos
+
+<!--
+http://www.tablesgenerator.com/markdown_tables
+-->
+
+
+| No | Prioridad 1 = Alta 2 = Media 3 = Baja |                    Descripción del Compromiso                   |     Responsable     | Fecha de Entrega |
+|----|:-------------------------------------:|:---------------------------------------------------------------:|:-------------------:|------------------|
+| 1  | 1                                     | Informar oficialmente a Mtro. Nahúm la propuesta para EduCamp   | Érika               | 9 Marzo          |
+| 2  | 2                                     | Definir pasos en conformación de equipo admin Mis Chacharitas   | Érika y ??          | 9 Marzo          |
+| 3  | 1                                     | Integrar minuta oficial de reunión y distribuirla para su oficialización | Gener, Aghavni | 6 Marzo      |
+<!--
+| 4  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |
+| 5  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |
+| 6  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |
+| 7  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |
+-->
+
+###Seguimiento
+
+| No | Prioridad 1 = Alta 2 = Media 3 = Baja |                    Descripción del Compromiso                   |     Responsable     | Fecha de Entrega | Estatus T = Terminado Pr = En proceso Pe = Pendiente |
+|----|:-------------------------------------:|:---------------------------------------------------------------:|:-------------------:|------------------|------------------------------------------------------|
+| *  | *                                     | Sin evidencia oficial para realizar seguimientos                | ------------------- | ----------       |                                                      |
+<!--
+| 2  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
+| 3  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
+| 4  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
+| 5  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
+| 6  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
+| 7  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
+-->
+
+###Reglas base de la dinámica:
+
+  - Escribano toma la minuta. Los demás traen las herramientas que necesiten para la junta.
+  - Número mínimo de asistentes: 3 personas para acuerdos.
+  - Discreción, respeto, comunicación, autoaprendizaje, compartir, aprendizaje.
+  - Cumplir con los compromisos acordados en las reuniones de trabajo.
