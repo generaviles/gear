@@ -1,6 +1,6 @@
 --- 
 title: "Libro de Minutas y Evidencias Fundación GEAR A.C."
-author: "Érika Zúñiga, Bety Gurrea, Cecilia de la Vega, Aghavni Grigoryan, Jesús Monzón, Gerardo Romo, Gener Avilés R"
+author: "Érika Zúñiga, Bety Gurrea, Cecilia de la Vega, Sary de la Vega, Aghavni Grigoryan, Jesús Monzón, Gerardo Romo, Gener Avilés R"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
