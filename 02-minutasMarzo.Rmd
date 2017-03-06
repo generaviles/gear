@@ -16,6 +16,7 @@
 | Érika Zúñiga       | Si      | Presidenta |
 | Cecilia de la Vega | Si      | Secretaria |
 | Jesús Monzón       | No      | Tesorero   |
+| Bety Gurrea        | No      | Vocal      |
 | Saraí de la Vega   | Si      | Vocal      |
 | Aghavni Grigoryan  | No      | Vocal      |
 | Gerardo Romo       | Si      | Vocal      |
