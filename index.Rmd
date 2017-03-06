@@ -14,7 +14,7 @@ cover-image: img/GEAR_logo.png
 ---
 
 
-# Mensaje de la Directora
+# Mensaje de la Presidenta
 
 ```{r fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='https://www.crcpress.com/product/isbn/9781138700109'}
 knitr::include_graphics('img/GEAR_logo.png', dpi = NA)
