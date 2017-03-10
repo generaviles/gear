@@ -53,7 +53,6 @@
 http://www.tablesgenerator.com/markdown_tables
 -->
 
-
 | No | Prioridad 1 = Alta 2 = Media 3 = Baja |                    Descripción del Compromiso                   |     Responsable     | Fecha de Entrega |
 |----|:-------------------------------------:|:---------------------------------------------------------------:|:-------------------:|------------------|
 | 1  | 1                                     | Informar oficialmente a Mtro. Nahúm la propuesta para EduCamp   | Érika               | 9 Marzo          |
@@ -71,6 +70,126 @@ http://www.tablesgenerator.com/markdown_tables
 | No | Prioridad 1 = Alta 2 = Media 3 = Baja |                    Descripción del Compromiso                   |     Responsable     | Fecha de Entrega | Estatus T = Terminado Pr = En proceso Pe = Pendiente |
 |----|:-------------------------------------:|:---------------------------------------------------------------:|:-------------------:|------------------|------------------------------------------------------|
 | *  | *                                     | Sin evidencia oficial para realizar seguimientos                | ------------------- | ----------       |                                                      |
+<!--
+| 2  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
+| 3  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
+| 4  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
+| 5  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
+| 6  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
+| 7  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
+-->
+
+
+###Reglas base de la dinámica:
+
+  - Escribano toma la minuta. Los demás traen las herramientas que necesiten para la junta.
+  - Número mínimo de asistentes: 3 personas para acuerdos.
+  - Discreción, respeto, comunicación, autoaprendizaje, compartir, aprendizaje.
+  - Cumplir con los compromisos acordados en las reuniones de trabajo.
+
+
+##9-Mar-2017
+
+###Generalidades
+
+**Fecha de reunión:** Jueves 9 de Marzo de 2017 <br \>
+**Hora:** 19:00 a 21:00 hrs. <br \>
+**Duración:** 2:00 horas. <br \>
+**Lugar:** Casa familia Avilés Grigoryan. <br \>
+
+**Asistentes**
+
+|       Nombre       | Asistió |     Rol    |
+|:------------------:|:-------:|:----------:|
+| Érika Zúñiga       | Si      | Presidenta |
+| Cecilia de la Vega | No      | Secretaria |
+| Jesús Monzón       | Si      | Tesorero   |
+| Bety Gurrea        | Si      | Vocal      |
+| Saraí de la Vega   | No      | Vocal      |
+| Aghavni Grigoryan  | No      | Vocal      |
+| Gerardo Romo       | Si      | Vocal      |
+| Gener Avilés       | Si      | Vocal      |
+
+<br \>
+**Fecha y hora de reunión de trabajo próxima:** Jueves 16 de Marzo de 2017.<br \>
+**Duración de la próxima reunión:** 19:00  a 20:30 hrs.<br \>
+**Lugar próxima reunión:** Casa familia Avilés Grigoryan.<br \>
+**Escribano próxima reunión:** Bety.<br \>
+
+###Agenda:
+  - *No hubo agenda oficial previo a la reunión*
+
+###Temas Abordados
+
+  1. Procesos para generar, revisar y aprobar minuta.
+  1. Ausencia de Érika durante algunos días del mes de Marzo.
+  1. Salida Mis Chacharitas a Los Ángeles el 11 y 12 de Marzo.
+  1. Priorización de proyectos.
+  1. Proyecto Padrinos.
+  
+###Acuerdos y Votos
+
+####Acuerdos
+  - Jesús da seguimiento a:
+    - Obtener del pastor Cedric el cheque de la Asociación de parte de GEAR.
+    - Con Nidia dar seguimiento al donativo del matrimonio de Club de Leones que dejaron en el sobre de diezmos en la Iglesia 14.
+  - Armar comisión de seguimiento a donadores con los siguientes objetivos:
+    - Mantener contacto con donadores.
+    - Recabar donativos.
+    - Entregarles recibos de pago.
+    - Llegar las cuentas de los dineros que entran y salen.
+    - Se proponen como miembros a Sary (coordinadora de comisión), Jesús y Gener.
+    - Comisión definiría responsabilidades puntuales.
+    - Próxima reunión la comisión propondría estrategias de avance.
+  - Mis Chacharitas
+    - Producto se venderá a $1 dll en USA y $15 pesos al menudeo y $12 pesos al menudeo en México.
+    - Estructurar puntos ciegos en el proceso de producción para disminuir probabilidad de productos copia.
+  - Programa padrinos.
+    - Tener por escrito los requisitos que se requieren para ser padrinos para el viaje a Los Ángeles del 11 y 12 de Marzo.
+
+####Votos
+  1. Se aprueba presupuesto de salida a Los Ángeles para el 11 y 12 de Marzo:
+    - Gasolina: $800 pesos.
+    - Fondo de emergencia por persona (2 en éste viaje): 30 dólares cada una.
+  1. Se aprueban $943 pesos como préstamo de *GEAR* a *Mis Chacharitas* a ser pagados tan pronto haya liquidez.
+  1. Se aprueba logo de *Mis Chacharitas* e imagen para perfil de fan page en Facebook.
+  1. Operativamente GEAR priorizará los siguientes puntos en orden de prioridad, hasta nueva votación:
+    - Mis Chacharitas
+    - Programa padrinos
+    - Administración de minutas
+    - Seguimiento a donadores externos e internos
+    - Capacitaciones
+  1. Se aprueban las siguientes responsbailidades
+    - Padrinos: Érika y Bety
+    - EduCamp: Gerardo
+    - Administración de minutas: Gener y Aghavni
+    - Mis Chacharitas: Érika, Jesús, Lola
+
+###Compromisos
+
+<!--
+http://www.tablesgenerator.com/markdown_tables
+-->
+
+| No | Prioridad 1 = Alta 2 = Media 3 = Baja |                    Descripción del Compromiso                   |     Responsable     | Fecha de Entrega |
+|----|:-------------------------------------:|:---------------------------------------------------------------:|:-------------------:|------------------|
+| *  | *                                     | -------------------------------------------------------------   | ------------------- | -------          |
+| *  | *                                     | -------------------------------------------------------------   | ------------------- | -------          |
+| *  | *                                     | ----------------------------------------------------------------| ------------------- | -----------      |
+<!--
+| 4  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |
+| 5  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |
+| 6  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |
+| 7  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |
+-->
+
+
+
+###Seguimiento
+
+| No | Prioridad 1 = Alta 2 = Media 3 = Baja |                    Descripción del Compromiso                   |     Responsable     | Fecha de Entrega | Estatus T = Terminado Pr = En proceso Pe = Pendiente |
+|----|:-------------------------------------:|:---------------------------------------------------------------:|:-------------------:|------------------|------------------------------------------------------|
+| 1  | 2                                     | EduCamp: Se informó al profe Nahúm de los acuerdos tomados.     | Gerardo             | 9 de Marzo       |                        T                             |
 <!--
 | 2  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
 | 3  | 1                                     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do | Sed ut perspiciatis | 29 Febrero       |                                                      |
