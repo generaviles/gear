@@ -142,7 +142,7 @@ http://www.tablesgenerator.com/markdown_tables
     - Comisión definiría responsabilidades puntuales.
     - Próxima reunión la comisión propondría estrategias de avance.
   - Mis Chacharitas
-    - Producto se venderá a $1 dlls en USA y $15 pesos al menudeo (1-25 unidades) y $12 pesos al mayoreo ($\geq 26 unidades$) en México.
+    - Producto se venderá a 1 dlls en USA y 15 pesos al menudeo (1-25 unidades) y 12 pesos al mayoreo ($\geq$ 26 unidades) en México.
     - Estructurar puntos ciegos en el proceso de producción para disminuir probabilidad de productos copia.
   - Programa padrinos.
     - Tener por escrito los requisitos que se requieren para ser padrinos para el viaje a Los Ángeles del 11 y 12 de Marzo.
